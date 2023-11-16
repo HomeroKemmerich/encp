@@ -16,3 +16,6 @@
 [submodule "Contents/auto"]
 	path = Contents/auto
 	url = https://github.com/HomeroKemmerich/auto.git
+[submodule "Contents/bcdd"]
+	path = Contents/bcdd
+	url = https://github.com/HomeroKemmerich/bcdd.git
