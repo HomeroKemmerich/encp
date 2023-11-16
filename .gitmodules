@@ -7,3 +7,6 @@
 [submodule "Contents/cdae"]
 	path = Contents/cdae
 	url = https://github.com/HomeroKemmerich/cdae.git
+[submodule "Contents/micr"]
+	path = Contents/micr
+	url = https://github.com/HomeroKemmerich/micr.git
