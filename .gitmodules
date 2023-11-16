@@ -10,3 +10,6 @@
 [submodule "Contents/micr"]
 	path = Contents/micr
 	url = https://github.com/HomeroKemmerich/micr.git
+[submodule "Contents/algo"]
+	path = Contents/algo
+	url = https://github.com/HomeroKemmerich/algo.git
