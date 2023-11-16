@@ -1,0 +1,3 @@
+[submodule "dvwm"]
+	path = dvwm
+	url = https://github.com/HomeroKemmerich/dvwm.git
