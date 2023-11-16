@@ -1,3 +1,6 @@
 [submodule "dvwm"]
 	path = dvwm
 	url = https://github.com/HomeroKemmerich/dvwm.git
+[submodule "cncl"]
+	path = cncl
+	url = https://github.com/HomeroKemmerich/cncl.git
