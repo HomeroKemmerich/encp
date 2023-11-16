@@ -25,3 +25,6 @@
 [submodule "Contents/esdd"]
 	path = Contents/esdd
 	url = https://github.com/HomeroKemmerich/esdd.git
+[submodule "Contents/lprg"]
+	path = Contents/lprg
+	url = https://github.com/HomeroKemmerich/lprg.git
