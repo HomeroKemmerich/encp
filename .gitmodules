@@ -19,3 +19,6 @@
 [submodule "Contents/bcdd"]
 	path = Contents/bcdd
 	url = https://github.com/HomeroKemmerich/bcdd.git
+[submodule "Contents/ctrl"]
+	path = Contents/ctrl
+	url = https://github.com/HomeroKemmerich/ctrl.git
