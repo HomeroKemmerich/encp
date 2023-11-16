@@ -1,6 +1,6 @@
-[submodule "Contents/dvwm"]
+[submodule "dvwm"]
 	path = Contents/dvwm
 	url = https://github.com/HomeroKemmerich/dvwm.git
-[submodule "Contents/cncl"]
+[submodule "cncl"]
 	path = Contents/cncl
 	url = https://github.com/HomeroKemmerich/cncl.git
