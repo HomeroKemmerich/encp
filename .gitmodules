@@ -22,3 +22,6 @@
 [submodule "Contents/ctrl"]
 	path = Contents/ctrl
 	url = https://github.com/HomeroKemmerich/ctrl.git
+[submodule "Contents/esdd"]
+	path = Contents/esdd
+	url = https://github.com/HomeroKemmerich/esdd.git
