@@ -13,3 +13,6 @@
 [submodule "Contents/algo"]
 	path = Contents/algo
 	url = https://github.com/HomeroKemmerich/algo.git
+[submodule "Contents/auto"]
+	path = Contents/auto
+	url = https://github.com/HomeroKemmerich/auto.git
