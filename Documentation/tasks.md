@@ -6,4 +6,4 @@
 - [ ] Organizar a estrutura de [Laboratório de programação](../Contents/lprg/)
 - [ ] Selecionar e baixar os arquivos de [Microcontroladores](../Contents/micr/)
 - [X] Selecionar e baixar os arquivos de POO
-- [ ] Selecionar e baixar os arquivos de SO1
+- [X] Selecionar e baixar os arquivos de SO1
