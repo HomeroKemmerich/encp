@@ -28,3 +28,6 @@
 [submodule "Contents/lprg"]
 	path = Contents/lprg
 	url = https://github.com/HomeroKemmerich/lprg.git
+[submodule "Contents/pobj"]
+	path = Contents/pobj
+	url = https://github.com/HomeroKemmerich/pobj.git
