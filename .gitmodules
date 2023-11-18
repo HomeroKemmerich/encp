@@ -31,3 +31,6 @@
 [submodule "Contents/pobj"]
 	path = Contents/pobj
 	url = https://github.com/HomeroKemmerich/pobj.git
+[submodule "Contents/siop"]
+	path = Contents/siop
+	url = https://github.com/HomeroKemmerich/siop.git
