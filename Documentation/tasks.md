@@ -8,7 +8,7 @@
 - [ ] Organizar a estrutura de [Laboratório de programação](../Contents/lprg/)
 
 ## Google Drive
-v
+
 - [ ] Selecionar e baixar os arquivos de [Microcontroladosres](../Contents/micr/)
 - [X] Selecionar e baixar os arquivos de POO
 - [X] Selecionar e baixar os arquivos de SO1
@@ -20,4 +20,3 @@ v
 - [ ] dvwm
 - [ ] modl
 - [ ] siop
-- [ ]
