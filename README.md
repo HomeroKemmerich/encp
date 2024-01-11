@@ -4,13 +4,13 @@ Engenharia de computação
 
 ## Conteúdo
 
-- [Algoritmos e programação](./Contents/algo/)
-- [Automação](./Contents/auto/)
-- [Bancos de dados](./Contents/bcdd/)
-- [Comunicação de dados em aplicações embarcadas](./Contents/cdae/)
-- [Controle automático](./Contents/ctrl/)
-- [Desenvolvimento web e mobile](./Contents/dvwm/)
-- [Estruturas de dados](./Contents/esdd/)
-- [Laboratório de programação](./Contents/lprg/)
-- [Microcontroladores](./Contents/micr/)
-- [Programação orientada a objetos](./Contents/poo/)
+- [Algoritmos e programação](./Contents/algo/README.md)
+- [Automação](./Contents/auto/README.md)
+- [Bancos de dados](./Contents/bcdd/README.md)
+- [Comunicação de dados em aplicações embarcadas](./Contents/cdae/README.md)
+- [Controle automático](./Contents/ctrl/README.md)
+- [Desenvolvimento web e mobile](./Contents/dvwm/README.md)
+- [Estruturas de dados](./Contents/esdd/README.md)
+- [Laboratório de programação](./Contents/lprg/README.md)
+- [Microcontroladores](./Contents/micr/README.md)
+- [Programação orientada a objetos](./Contents/poo/README.md)
