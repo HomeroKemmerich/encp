@@ -1,3 +1,9 @@
+---
+aliases:
+  - Engenharia de Computação
+tags:
+  - encp
+---
 # encp
 
 Engenharia de computação
